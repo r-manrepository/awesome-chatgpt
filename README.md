@@ -11,7 +11,7 @@ A curated list of awesome projects, extensions, and software using ChatGPT.
 - [TweetGPT](https://chrome.google.com/webstore/detail/tweetgpt/lkjblpoingopdeaofcaapmeoojjjnhnc) - It uses ChatGPT to write your tweets, reply, comment, etc. [[Source Code](https://github.com/yaroslav-n/tweetGPT)]
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - It display the ChatGPT response alongside Google Search results [[Source Code](https://github.com/wong2/chat-gpt-google-extension)]
 - [ChatGPT for Search Engines](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - ChatGPT or all search engines: You can now view ChatGPT responses on Google and Bing!
-- [ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Save all your Prompts?: The `ChatGPT History` extension has you covered!
+- [ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Save all your Prompts?: The `ChatGPT History` extension has you covered! [[Source Code](https://github.com/benf2004/ChatGPT-History)]
 
 ### Website
 - [Youtube Transcript](https://youtubetranscript.com/) - Remake a video: Just pick a video you liked and visit to get its transcript. Once done, bring that back to Chat GPT and tell it to summarize the transcript. Read the summary and make a video on that yourself.
