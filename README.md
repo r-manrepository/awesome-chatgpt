@@ -3,6 +3,7 @@ A curated list of awesome projects, extensions, and software using ChatGPT.
 
 ### Projects
 - [WhatsApp GPT](https://github.com/danielgross/whatsapp-gpt) - Connect your ChatGPT with your Whatsapp. [[Source Code](https://github.com/danielgross/whatsapp-gpt)]
+- [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (*Mac, Windows and Linux*) [[Source Code](https://github.com/lencx/ChatGPT)]
 
 ### Browser Extensions
 - [ChatGPT Writer](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - It use ChatGPT to generate emails or replies based on your prompt!
