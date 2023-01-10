@@ -17,6 +17,7 @@ A curated list of awesome projects, extensions, and software using ChatGPT.
 - [ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or creating a sharable link. [[Source Code](https://github.com/liady/ChatGPT-pdf)]
 
 ### Website
+- [Awesome ChatGPT Prompts](https://prompts.chat/) - This is a collection of prompt examples to be used with the ChatGPT model. You will find a variety of prompts that can be used with ChatGPT
 - [Youtube Transcript](https://youtubetranscript.com/) - Remake a video: Just pick a video you liked and visit to get its transcript. Once done, bring that back to Chat GPT and tell it to summarize the transcript. Read the summary and make a video on that yourself.
 - [Flow GPT](https://flowgpt.com/) - Share, discover, and learn about the most useful ChatGPT prompts that help you streamline your tasks and increase productivity.
 - [ShareGPT](https://sharegpt.com/) - Discover ChatGPT conversations shared via [ShareGPT extension](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb). [[Source Code](https://github.com/domeccleston/sharegpt)]
