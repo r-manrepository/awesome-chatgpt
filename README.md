@@ -19,6 +19,7 @@ A curated list of awesome projects, extensions, and software using ChatGPT.
 - [Youtube Transcript](https://youtubetranscript.com/) - Remake a video: Just pick a video you liked and visit to get its transcript. Once done, bring that back to Chat GPT and tell it to summarize the transcript. Read the summary and make a video on that yourself.
 - [Flow GPT](https://flowgpt.com/) - Share, discover, and learn about the most useful ChatGPT prompts that help you streamline your tasks and increase productivity.
 - [ShareGPT](https://sharegpt.com/) - Discover ChatGPT conversations shared via [ShareGPT extension](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb).
+- [LearnGPT](https://www.learngpt.com/) - A resource for anyone who wants to learn more about ChatGPT
 
 ## Contributing
 
