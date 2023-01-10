@@ -13,10 +13,12 @@ A curated list of awesome projects, extensions, and software using ChatGPT.
 - [ChatGPT for Search Engines](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - ChatGPT or all search engines: You can now view ChatGPT responses on Google and Bing!
 - [ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Save all your Prompts?: The `ChatGPT History` extension has you covered! [[Source Code](https://github.com/benf2004/ChatGPT-History)]
 - [AIPRM - ChatGPT Prompts for SEOs](https://chrome.google.com/webstore/detail/aiprm-for-seo/ojnbohmppadfgpejeebfnmnknjdlckgj) - It's a Chrome extension that adds a list of curated prompt templates for SEOs to ChatGPT
+- [ShareGPT](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) - Share your ChatGPT conversations
 
 ### Website
 - [Youtube Transcript](https://youtubetranscript.com/) - Remake a video: Just pick a video you liked and visit to get its transcript. Once done, bring that back to Chat GPT and tell it to summarize the transcript. Read the summary and make a video on that yourself.
 - [Flow GPT](https://flowgpt.com/) - Share, discover, and learn about the most useful ChatGPT prompts that help you streamline your tasks and increase productivity.
+- [ShareGPT](https://sharegpt.com/) - Discover ChatGPT conversations shared via [ShareGPT extension](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb).
 
 ## Contributing
 
