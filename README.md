@@ -14,6 +14,7 @@ A curated list of awesome projects, extensions, and software using ChatGPT.
 - [ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Save all your Prompts?: The `ChatGPT History` extension has you covered! [[Source Code](https://github.com/benf2004/ChatGPT-History)]
 - [AIPRM - ChatGPT Prompts for SEOs](https://chrome.google.com/webstore/detail/aiprm-for-seo/ojnbohmppadfgpejeebfnmnknjdlckgj) - It's a Chrome extension that adds a list of curated prompt templates for SEOs to ChatGPT
 - [ShareGPT](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) - Share your ChatGPT conversations [[Source Code](https://github.com/domeccleston/sharegpt)]
+- [ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or creating a sharable link. [[Source Code](https://github.com/liady/ChatGPT-pdf)]
 
 ### Website
 - [Youtube Transcript](https://youtubetranscript.com/) - Remake a video: Just pick a video you liked and visit to get its transcript. Once done, bring that back to Chat GPT and tell it to summarize the transcript. Read the summary and make a video on that yourself.
