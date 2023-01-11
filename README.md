@@ -16,6 +16,7 @@ A curated list of awesome projects, extensions, and software using ChatGPT.
 - [AIPRM - ChatGPT Prompts for SEOs](https://chrome.google.com/webstore/detail/aiprm-for-seo/ojnbohmppadfgpejeebfnmnknjdlckgj) - It's a Chrome extension that adds a list of curated prompt templates for SEOs to ChatGPT
 - [ShareGPT](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) - Share your ChatGPT conversations [[Source Code](https://github.com/domeccleston/sharegpt)]
 - [ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or creating a sharable link. [[Source Code](https://github.com/liady/ChatGPT-pdf)]
+- [ChatGPT Prompts](https://chrome.google.com/webstore/detail/chatgpt-prompts/igaldenhhkaelahplnglcdcfmmhhmgdj) - This is a collection of prompt examples to be used with the ChatGPT model. It uses [prompts.chat](https://prompts.chat/) repository as its datasource. [[Source Code](https://github.com/cempehlivan/chatgpt-prompt-chrome-extension)]
 
 ### Website
 - [Awesome ChatGPT Prompts](https://prompts.chat/) - This is a collection of prompt examples to be used with the ChatGPT model. You will find a variety of prompts that can be used with ChatGPT
