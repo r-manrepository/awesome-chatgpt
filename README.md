@@ -1,5 +1,5 @@
 # Awesome ChatGPT
-List of awesome projects using ChatGPT. The main goal of this repository is to find useful resources and start contributing. Feel free to contribute to the list, any suggestions are welcome!
+List of awesome projects using [ChatGPT](https://openai.com/blog/chatgpt/). The main goal of this repository is to find useful resources and start contributing. Feel free to contribute to the list, any suggestions are welcome!
 
 ## Contents
 - [Projects](#projects)
