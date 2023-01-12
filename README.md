@@ -1,5 +1,11 @@
 # Awesome ChatGPT
-A curated list of awesome projects, extensions, and software using ChatGPT.
+List of awesome projects using ChatGPT. The main goal of this repository is to find useful resources and start contributing. Feel free to contribute to the list, any suggestions are welcome!
+
+## Contents
+- [Projects](#projects)
+- [Browser Extensions](#browser-extensions)
+- [Website](#website)
+- [Articles](#articles)
 
 ### Projects
 - [WhatsApp GPT](https://github.com/danielgross/whatsapp-gpt) - Connect your ChatGPT with your Whatsapp. [[Source Code](https://github.com/danielgross/whatsapp-gpt)]
